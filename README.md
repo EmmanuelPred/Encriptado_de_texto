@@ -25,7 +25,7 @@ En este archivo se otorgan algunas instrucciones y consideraciones para el uso d
 6) En el caso de desencriptar: El usuario notará al terminar la acción que sale a pantalla el texto desencriptado y solo se le da la opción de poder salir al menú principal. En este caso el archivo desencriptado no se almacena en ninguna parte (de hecho no se crea).
 
 
-									*****CONSIDERCIONES******
+									*****CONSIDERACIONES******
 
 1) los archivos de texto (.txt) a encriptar o desencriptar deberán estar almacenados en la carpeta donde esta contenido el programa.
 
