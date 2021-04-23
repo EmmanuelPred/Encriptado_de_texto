@@ -1,0 +1,29 @@
+A pesar de la naturaleza al azar de la desintegración
+radiactiva, ésta nos puede ofrecer un “reloj” muy seguro
+y útil para poder registrar el paso del tiempo. El método
+consiste en la aplicación de la conocida ley exponencial de
+la desintegración radiactiva, o de algunas de sus ecuaciones
+derivadas, que dan la evolución temporal de la población
+de elementos radiactivos en una muestra. Si la población
+radiactiva acompaña a la muestra a lo largo del tiempo, la
+determinación de su actividad nos ofrece una estimación
+de su edad. Este método será más fiable cuanto mejor
+conozcamos la constante de desintegración radiactiva del
+radionucleido, que gobierna el ritmo de desintegración de
+los núcleos, y del método que empleemos para contabilizar
+el número de átomos presente en la muestra en los diversos
+tiempos considerados. En este sentido, el uso de detectores
+de radiación de muy bajo ruido de fondo para determinar la
+concentración de núcleos radiactivos en las muestras que
+queremos datar es clave.
+
+El desarrollo de la Física Nuclear ha proporcionado técnicas y metodología experimental utilísimas
+para la resolución de problemas en muchas áreas de la Ciencia, la Tecnología, las Humanidades
+y la Salud. Detectores de radiación, aceleradores, reactores nucleares, elementos radiactivos, etc. son
+potentes herramientas para la investigación en laboratorios, museos, hospitales y otras muchas y variadas
+instalaciones no directamente relacionadas con la Física Nuclear. Además, su uso ayuda a resolver
+incluso problemas sociales inmediatos. El mundo de la Física Nuclear Aplicada crece continuamente y
+encuentra cabida en cada vez más ámbitos científicos y sociales. Pretendemos en este artículo reflejar
+todo este potencial de aplicaciones de la Física Nuclear. 
+
+Nuclear physics research is focused on understanding the matter composed of quarks and gluons, which makes up 99% of the mass of the universe. Most of this matter is found at the core of atoms, the same atoms that comprise all we see around us (including ourselves). Researchers seek to answer questions such as how the universe evolved just after the Big Bang from a super-hot plasma of quarks and gluons, how the different elements of the universe were formed, and how a nucleus is made up of individual protons and neutrons interacting with each other with the strongest force in Nature. The protons and neutrons themselves are the basic bound states of quarks in the universe; how these states are formed from quarks interacting with the gluonic field described by Quantum Chromodynamics is still only poorly understood, and under 
